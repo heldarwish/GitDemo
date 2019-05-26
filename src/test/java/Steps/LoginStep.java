@@ -33,10 +33,9 @@ public class LoginStep extends BaseUtil {
         System.out.println("I navigate to the Login page ");
         base.Driver.navigate().to("https://creds-webapi-qa.azurewebsites.net/admin");
         System.out.println("testestesennnnnnn ");
-        System.out.println("testestesennnnnnn ");
-        System.out.println("testestesennnnnnn ");
         System.out.println("YYYYYY ");
         System.out.println("XXXXXX ");
+        System.out.println("zzzzzz ");
     }
 
 

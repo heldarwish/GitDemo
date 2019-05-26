@@ -35,9 +35,7 @@ public class LoginStep extends BaseUtil {
         System.out.println("testestesennnnnnn ");
         System.out.println("YYYYYY ");
         System.out.println("XXXXXX ");
-        System.out.println("zzzzzz ");
-        System.out.println("zzzzzz ");
-        System.out.println("zzzzzz  fffff");
+        System.out.println("zzzzzz YYYYYYY ");
     }
 
 

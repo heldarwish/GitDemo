@@ -40,8 +40,8 @@ public class LoginStep extends BaseUtil {
 
         System.out.println("zzzzzz rttttt ");
         System.out.println("zzzzzz rtttttfff ");
+        System.out.println("zzzzzz rttttt ");
     }
-
 
     @And("^I enter the following for Login$")
     public void iEnterTheFollowingForLogin(DataTable table) throws Throwable {
@@ -86,7 +86,7 @@ public class LoginStep extends BaseUtil {
         emailTxtbox = wait.until(ExpectedConditions.visibilityOfElementLocated(By.name("email")));
         emailTxtbox.sendKeys("Test");
 
-       // base.Driver.close();
+        // base.Driver.close();
 
     }
 
@@ -109,7 +109,7 @@ public class LoginStep extends BaseUtil {
 
     public static boolean exist(WebElement element){
         try{
-           return element.isDisplayed();
+            return element.isDisplayed();
         }catch (NoSuchElementException e){
             return false;
         }catch (Exception e){

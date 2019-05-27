@@ -4,6 +4,6 @@ import org.openqa.selenium.WebDriver;
 
 public class Links {
 
-    public WebDriver newDriver;
+    public WebDriver newDriver2;
 
 }
